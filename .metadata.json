@@ -1,0 +1,14 @@
+[
+  {
+    "package": "htmldf",
+    "oncran": true
+  },
+  {
+    "package": "inspectdf",
+    "oncran": true
+  },
+  {
+    "package": "smnet",
+    "oncran": true
+  }
+]
