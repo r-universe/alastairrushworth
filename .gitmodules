@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "htmldf"]
 	path = htmldf
 	url = https://github.com/alastairrushworth/htmldf
-	shallow = true
-	registered = true
 [submodule "inspectdf"]
 	path = inspectdf
 	url = https://github.com/alastairrushworth/inspectdf
-	shallow = true
-	registered = true
 [submodule "smnet"]
 	path = smnet
 	url = https://github.com/alastairrushworth/smnet
-	shallow = true
-	registered = true
