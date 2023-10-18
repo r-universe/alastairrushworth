@@ -8,6 +8,3 @@
 [submodule "inspectdf"]
 	path = inspectdf
 	url = https://github.com/alastairrushworth/inspectdf
-[submodule "smnet"]
-	path = smnet
-	url = https://github.com/alastairrushworth/smnet
