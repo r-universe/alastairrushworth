@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "htmldf"]
-	path = htmldf
-	url = https://github.com/alastairrushworth/htmldf
 [submodule "inspectdf"]
 	path = inspectdf
 	url = https://github.com/alastairrushworth/inspectdf
